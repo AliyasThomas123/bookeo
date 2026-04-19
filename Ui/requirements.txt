@@ -7,4 +7,5 @@ tf-keras
 transformers
 torch
 streamlit
-papermill
+ipykernel>=6.0.0
+papermill>=2.3.0
